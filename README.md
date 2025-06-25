@@ -59,5 +59,5 @@
 
 ### ✨ Fun Fact
 
-I love turning real-world challenges into mobile + IoT solutions — especially with **BLE, GPS, MQTT, and Flutter**!
+I love turning real-world challenges into mobile + IoT solutions — especially with **Flutter**!
 
