@@ -1,46 +1,63 @@
 <h1 align="center">Hi 👋, I'm Parth Dattani</h1>
-<h3 align="center">Passionate Flutter & Embedded Systems Developer 🚀</h3>
+<h3 align="center">🚀 Passionate Flutter & IoT Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parth-Dattani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **BLE + MQTT Pet Tracker App**
-- 🌱 I’m diving deeper into **AI Voice Cloning & Flutter Web**
-- 💬 Ask me about **ESP32, BLE, MQTT, or Flutter**
-- 📫 Reach me at: `your.email@example.com`
-- ⚡ Fun fact: I love creating hardware-powered IoT apps and designing elegant UIs!
+- 🔭 Currently building a **Real-Time BLE + MQTT Pet Tracker** app using **Flutter + ESP32**
+- 💡 Skilled in **FlutterFlow, Firebase, REST APIs, Google Maps, Payment Gateway Integration**
+- 🌐 Working on **Flutter Web**, **Android & iOS apps**, and **ESP32 IoT** platforms
+- 📱 Strong with **GetX**, **Provider**, and custom state management patterns
+- ⚡ Fun Fact: I also create secure BLE-based provisioning & real-time GPS tracking systems!
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔗 Connect With Me
+
+- 📧 Email: `dattaniparth2@gmail.com`
+- 🔗 [LinkedIn](https://in.linkedin.com/in/parth-dattani-1ab69a16a)
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,arduino,c,cpp,python,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,linux,arduino,c,cpp" />
 </p>
+
+- 🔹 Flutter (Android, iOS, Web)
+- 🔹 Firebase (Auth, Firestore, Messaging, Realtime DB)
+- 🔹 REST APIs & Google Maps Integration
+- 🔹 Payment Gateway Integration (Stripe/Razorpay/etc.)
+- 🔹 BLE, MQTT, ESP32 (IoT)
+- 🔹 FlutterFlow
+- 🔹 State Management: GetX, Provider, setState
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Dattani&show_icons=true&theme=tokyonight" alt="Parth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Dattani&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Dattani&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Dattani&layout=compact&theme=github_dark" width="48%" />
 </p>
 
 ---
 
-### 🔗 Links
+### 🚀 Pinned Projects
 
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 📄 [Resume](https://your-resume-link.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌍 [Website](https://your-website.com)
+[![BLE Pet Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Parth-Dattani&repo=dog-tracker&theme=github_dark)](https://github.com/Parth-Dattani/dog-tracker)
+
+[![StyleTTS2 Voice Cloning](https://github-readme-stats.vercel.app/api/pin/?username=Parth-Dattani&repo=styletts2-clone&theme=github_dark)](https://github.com/Parth-Dattani/styletts2-clone)
 
 ---
 
-### 📌 Pinned Projects
+### ✨ Fun Fact
 
-[![Pet Tracker App](https://github-readme-stats.vercel.app/api/pin/?username=Parth-Dattani&repo=dog-tracker&theme=tokyonight)](https://github.com/Parth-Dattani/dog-tracker)
+I love turning real-world challenges into mobile + IoT solutions — especially with **BLE, GPS, MQTT, and Flutter**!
 
-[![StyleTTS2 Voice Cloning](https://github-readme-stats.vercel.app/api/pin/?username=Parth-Dattani&repo=styletts2-clone&theme=tokyonight)](https://github.com/Parth-Dattani/styletts2-clone)
