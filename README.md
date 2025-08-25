@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building a **Real-Time BLE + MQTT Pet Tracker** app using **Flutter + ESP32**
+- 🔭 Currently building a **Real-Time BLE + MQTT Tracker** app using **Flutter + ESP32**
 - 💡 Skilled in **FlutterFlow, Firebase, REST APIs, Google Maps, Payment Gateway Integration**
 - 🌐 Working on **Flutter Web**, **Android & iOS apps**, and **ESP32 IoT** platforms
 - 📱 Strong with **GetX**, **Provider**, and custom state management patterns
